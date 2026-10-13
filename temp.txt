@@ -1,1 +1,1 @@
-Testing git reset
+Modified before mixed reset
